@@ -1,7 +1,7 @@
 ### 👋 ¡Hola! Soy LordSlime_Rimuru
 
 <p align="center">
-  <img src="https://i.imgur.com/cufviCH.gif" alt="LordSlime_Rimuru Banner">
+  <img src="https://i.imgur.com/q3gQV1f.gif" alt="LordSlime_Rimuru Banner">
 </p>
 
 ---
@@ -20,4 +20,3 @@ Espero y nos llevemos bien :)
 </p>
 
 ---
-
